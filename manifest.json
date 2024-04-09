@@ -1,0 +1,12 @@
+{
+    "name": "Toolio",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Toolio: Is an online marketplace for selling and renting tools/products",
+    "action": {
+        "default_icon": "icon.png",
+        "default_popup": "index.html",
+        "default_title": "Toolio"
+    }
+} 
+
